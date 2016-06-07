@@ -5,7 +5,7 @@
 #
 
 # Get source files and dirs
-sources=`ls "${HOME}/dotfiles" | grep -v 'install'`
+sources=`ls "${HOME}/dotfiles" | egrep -v 'install|README.md'`
 
 # Make links if they do not exist
 for source in $sources; do
