@@ -1,2 +1,6 @@
 # Vim
 *.sw?
+
+# Tmux
+tmux/plugins/*
+!tmux/plugins/tpm
