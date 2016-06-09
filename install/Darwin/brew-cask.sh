@@ -14,3 +14,6 @@ brew cask install java
 
 # Keyboard
 brew cask install karabiner
+
+# Mouse
+brew cask install logitech-gaming-software
