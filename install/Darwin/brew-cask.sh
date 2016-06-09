@@ -11,3 +11,6 @@ brew cask install eclipse-java
 
 # Language
 brew cask install java
+
+# Keyboard
+brew cask install karabiner
