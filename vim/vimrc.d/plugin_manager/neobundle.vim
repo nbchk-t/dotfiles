@@ -19,6 +19,9 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 " Refer to |:NeoBundle-examples|.
 " Note: You don't set neobundle setting in .gvimrc!
 
+" Status line
+NeoBundle 'itchyny/lightline.vim'
+
 call neobundle#end()
 
 " Required:
