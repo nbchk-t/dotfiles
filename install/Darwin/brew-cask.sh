@@ -6,6 +6,9 @@ brew cask install google-chrome
 # Terminal
 brew cask install iterm2
 
+# Editor
+brew cask install atom
+
 # IDE
 brew cask install eclipse-java
 

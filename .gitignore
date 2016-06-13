@@ -4,3 +4,11 @@
 # Tmux
 tmux/plugins/*
 !tmux/plugins/tpm
+
+# Atom
+atom/*
+!atom/config.cson
+!atom/init.coffee
+!atom/keymap.cson
+!atom/snippets.cson
+!atom/styles.less
