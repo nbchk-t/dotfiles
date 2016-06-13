@@ -1,5 +1,7 @@
 # Vim
 *.sw?
+vim/bundle/*
+!vim/bundle/neobundle.vim
 
 # Tmux
 tmux/plugins/*
