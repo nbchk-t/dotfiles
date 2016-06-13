@@ -8,3 +8,6 @@ apm install autocomplete-paths
 
 # Vim
 apm install vim-mode-plus
+
+# Ruby
+apm install language-rspec
